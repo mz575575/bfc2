@@ -2,7 +2,7 @@
   <div id="app">
     <router-view></router-view>
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <div style="height:65px"></div>
+    <div style="height:64px"></div>
     <div class="btn" > <van-icon name="phone-o" color="#fff" size="2.5rem" style="position:fixed;bottom:0.8rem;left:18%" /> <a style="color:#fff" href="tel:18360809011">立即拨打咨询</a> </div>
   </div>
 </template>
