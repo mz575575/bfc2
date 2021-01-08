@@ -9,6 +9,7 @@
         <span style="font-weight:bolder;font-size:25px;">18360809011</span> <br>
              <a href="http://www.jsqiantui.cn/" style="color: #000;font-size: 0.28rem; font-size:14px;color:#ee6c4d">百度推广技术支持：千推网络</a>
          </div>
+         <div style="color:#fff"><span>版权所有：塔城地区物资再生利用有限公司</span></div>
      
          
       </div>
